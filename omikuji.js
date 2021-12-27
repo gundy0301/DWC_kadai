@@ -24,3 +24,4 @@ if (rand == 4) {
   userresult = "凶";
 }
 document.getElementById("result").innerHTML = userresult;
+
